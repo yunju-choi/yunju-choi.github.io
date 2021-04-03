@@ -1,0 +1,16 @@
+name: cherry
+url: https://github.com/yunju-choi/yunju-choi.github.io
+description: yunju's 기록
+
+permalink: /themes/:title/
+
+plugins: [jekyll-paginate]
+
+highlighter: pygments
+paginate: 20
+
+markdown: rdiscount
+rdiscount:
+    extensions: ['smart']
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
