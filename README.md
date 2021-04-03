@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 # Centrarium [![Circle CI](https://circleci.com/gh/bencentra/centrarium/tree/master.svg?style=svg)](https://circleci.com/gh/bencentra/centrarium/tree/master)
 
 A simple yet classy theme for your Jekyll website or blog. Customizable to fit your style or brand.
+=======
+YUNJU's 기술 블로그
+=============
+
+YUNJU's 기술 블로그
+>>>>>>> 443b19cb29660f2fe60a7cb159e57251445cdcf4
 
 Built with these awesome libraries:
 * [Bourbon][bourbon]
@@ -11,6 +18,7 @@ Built with these awesome libraries:
 * [HighlightJS][highlightjs]
 * [Lightbox][lightbox]
 
+<<<<<<< HEAD
 Here's a [demo](http://bencentra.com/centrarium). It also works on [GitHub Pages](http://bencentra.github.io/centrarium/). I also use it for [my own website][bencentra].
 
 Inspired by dirkfabisch's [Mediator](https://github.com/dirkfabisch/mediator) theme, which I previously used for my own blog, as well as [Type Theme](http://rohanchandra.github.io/type-theme/).
@@ -247,3 +255,10 @@ MIT. See [LICENSE.MD](https://github.com/bencentra/centrarium/blob/master/LICENS
 [ga]: http://www.google.com/analytics/
 [archives]: https://github.com/jekyll/jekyll-archives
 [sitemap]: https://github.com/jekyll/jekyll-sitemap
+=======
+YUNJU's 기술 블로그
+------------------
+
+YUNJU's 기술 블로그
+
+>>>>>>> 443b19cb29660f2fe60a7cb159e57251445cdcf4
