@@ -13,11 +13,15 @@ title: Cherry의 우여곡절 코딩 메모장
 subtitle: "Cherry! Cherry!"
 email: yunju715.choi@gmail.com
 name: Yunju Choi
-description: "Cherry의 우여곡절 코딩 메모장"
+description: >
+  Cherry의 우여곡절 코딩 메모장
+# Base URL of site (i.e. /blog). It should always start with a slash,
+# and never end with a slash. Set it to a blank value if hosting at the
+# root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://yunju-choi.github.io/" # the base hostname & protocol for your site
-cover: "/assets/header_image.png"
-logo: "/assets/logo.jpg"
+cover: "/assets/heart.png"
+logo: "/assets/moon.jpg"
 
 # Build settings
 markdown: kramdown
