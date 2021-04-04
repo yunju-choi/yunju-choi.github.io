@@ -9,19 +9,15 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
-description: >
-  A simple yet classy theme for your Jekyll website or blog.
-# Base URL of site (i.e. /blog). It should always start with a slash,
-# and never end with a slash. Set it to a blank value if hosting at the
-# root of your server.
+title: Cherry의 우여곡절 코딩 메모장
+subtitle: "Cherry! Cherry!"
+email: yunju715.choi@gmail.com
+name: Yunju Choi
+description: "Cherry의 우여곡절 코딩 메모장"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://yunju-choi.github.io/" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+cover: "/assets/header_image.png"
+logo: "/assets/logo.jpg"
 
 # Build settings
 markdown: kramdown
